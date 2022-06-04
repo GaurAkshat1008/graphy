@@ -5,3 +5,12 @@
   outline: 1px solid gray;
   margin: 2px;
 }
+.node-start{
+  background-color: #00FF00;
+}
+.node-finish{
+  background-color: #FF0000;
+}
+.node-wall{
+  background-color: #000000;
+}
